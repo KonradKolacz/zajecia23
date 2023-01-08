@@ -11,6 +11,9 @@ public class Zajecia23Application {
 	//git commit -m "wiadomosc commita"
 	//git push origin master
 
+
+
+
 	public static void main(String[] args) {
 		SpringApplication.run(Zajecia23Application.class, args);
 	}

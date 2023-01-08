@@ -16,7 +16,6 @@ import java.time.LocalDate;
 @Builder
 @NoArgsConstructor
 public class Car {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
