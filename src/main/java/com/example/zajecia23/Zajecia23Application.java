@@ -10,6 +10,7 @@ public class Zajecia23Application {
 	//git add .
 	//git commit -m "wiadomosc commita"
 	//git push origin master
+//	dodalem zmiany
 
 
 
